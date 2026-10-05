@@ -1,0 +1,13 @@
+{
+  "name": "wally",
+  "version": "1.0.0",
+  "description": "Ask about your spending and add expenses, income and transfers to Wally: Budget Tracker. Works with the data the Wally app syncs to Google Drive.",
+  "author": {
+    "name": "Aleksandrs Vozņarskis",
+    "email": "support@watch-my-wallet.com"
+  },
+  "homepage": "https://www.watch-my-wallet.com/connect-ai.html",
+  "repository": "https://github.com/aleksandrsvozn/watchmywallet-claude-plugin",
+  "license": "MIT",
+  "keywords": ["budget", "expenses", "personal finance", "wally", "mcp"]
+}
