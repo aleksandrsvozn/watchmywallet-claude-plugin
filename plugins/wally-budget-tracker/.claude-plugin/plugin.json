@@ -1,5 +1,6 @@
 {
-  "name": "wally",
+  "name": "wally-budget-tracker",
+  "displayName": "Wally: Budget Tracker",
   "version": "1.0.0",
   "description": "Ask about your spending and add expenses, income and transfers to Wally: Budget Tracker. Works with the data the Wally app syncs to Google Drive.",
   "author": {

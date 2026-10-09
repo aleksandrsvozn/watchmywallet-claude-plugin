@@ -10,8 +10,8 @@
   },
   "plugins": [
     {
-      "name": "wally",
-      "source": "./plugins/wally",
+      "name": "wally-budget-tracker",
+      "source": "./plugins/wally-budget-tracker",
       "description": "Ask about your spending and add expenses, income and transfers to Wally: Budget Tracker.",
       "version": "1.0.0",
       "category": "productivity",
