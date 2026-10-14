@@ -8,7 +8,14 @@
     "email": "support@watch-my-wallet.com"
   },
   "homepage": "https://www.watch-my-wallet.com/connect-ai.html",
+  "privacyPolicyUrl": "https://www.watch-my-wallet.com/privacy-policy.html#s6b",
   "repository": "https://github.com/aleksandrsvozn/watchmywallet-claude-plugin",
   "license": "MIT",
-  "keywords": ["budget", "expenses", "personal finance", "wally", "mcp"]
+  "keywords": [
+    "budget",
+    "expenses",
+    "personal finance",
+    "wally",
+    "mcp"
+  ]
 }
